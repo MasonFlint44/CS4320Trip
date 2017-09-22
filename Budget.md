@@ -1,7 +1,7 @@
-|Item|Description|Date|Cost|
-|----|-----------|----|----|
-|Example|This is an example|09/22/2017|$40|
+|Item|Description|Cost|
+|----|-----------|----|
+|Plane tickets|5 Frontier plane tickets @ $167 a piece|$835|
 
 - Max budget:     $25000
-- Total expenses:     $0
-- Budget left:    $25000
+- Total expenses:   $835
+- Budget left:    $24165
