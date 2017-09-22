@@ -6,5 +6,5 @@
 |XLive tickets|$595 per person|$2975|
 
 - Max budget:     $25000
-- Total expenses:   $889
-- Budget left:    $24111
+- Total expenses:  $3898.12
+- Budget left:    $21101.88
