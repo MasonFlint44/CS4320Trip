@@ -8,7 +8,7 @@
 |12/14/2017|0730|Airport arrival|Arrive @ LAS airport|
 |12/14/2017|0950|Board plane|Board flight @ LAS airport|
 |12/14/2017|1430|Flight lands|Flight lands @ MCI airport|
-|12/14/2017|1500|KC -> Columbia|Leave MCI airpor for Columbia|
+|12/14/2017|1500|KC -> Columbia|Leave MCI airport for Columbia|
 
 - Trip start: 12/09/2017
 - Trip end: 12/14/2017
