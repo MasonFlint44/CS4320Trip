@@ -3,10 +3,10 @@
 |Plane tickets|5 Spirit plane tickets @ $83 a piece for round-trip|$415|
 |Airport parking|Garage parking @ MCI airport|$115|
 |Taxi|Taxi ride from LAS airport to car rental|$34.12|
-|XLive tickets|$595 per person|$2975|
+|XLive tickets|$2950 per person|$14750|
 |Rental car|Premium SUV|$935.93|
 |Hotel rooms|@ Mandalay Bay $99 per person per night|$2475|
 
 - Max budget:     $25000
-- Total expenses:  $6889.05
-- Budget left:    $18110.95
+- Total expenses:  $18725.05
+- Budget left:    $6274.95
