@@ -6,7 +6,8 @@
 |XLive tickets|$2950 per person|$14750|
 |Rental car|Premium SUV|$935.93|
 |Hotel rooms|@ Mandalay Bay $99 per person per night|$2475|
+|Gas money|Gas money for airport transit & rental vehicles|$100|
 
 - Max budget:     $25000
-- Total expenses:  $18725.05
-- Budget left:    $6274.95
+- Total expenses: $18825.05
+- Budget left:     $6174.95
