@@ -8,7 +8,8 @@
 |Hotel rooms|@ Mandalay Bay $155 per person per night|$3875|
 |Gas money|Gas money for airport transit & rental vehicles|$100|
 |Dune buggy chase|http://www.sunbuggy.com/lasvegas/Adventure-The-Vegas-Mini-Baja-Chase.sun|$1495|
+|Food|See https://github.com/MasonFlint44/CS4320Trip/blob/master/foodEstimate.md|$1505|
 
 - Max budget:     $25000
-- Total expenses: $21720.05
-- Budget left:     $3279.95
+- Total expenses: $23225.05
+- Budget left:     $1774.95
