@@ -1,7 +1,7 @@
 |Item|Description|Cost|
 |----|-----------|----|
 |Plane tickets|5 Spirit plane tickets @ $83 a piece for round-trip|$415|
-|Airport parking|$7 for weekends and $10 for weekdays @ STL airport|$54|
+|Airport parking|Garage parking @ MCI airport|$115|
 |Taxi|Taxi ride from LAS airport to car rental|$34.12|
 |XLive tickets|$595 per person|$2975|
 |Rental car|Premium SUV|$935.93|
