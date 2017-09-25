@@ -12,13 +12,17 @@
 |12/10/2017|1900|Welcome Dinner|Dinner provided by the convention|
 |12/11/2017|0800|Convention Events Begin|Go to the convention events at Mandalay Bay|
 |12/11/2017|1700|Convention Events End For the Day|Go out and about|
+|12/11/2017|1730|Henry's|Go out to eat ot Henry's|
 |12/12/2017|0830|Convention Events Begin|Go to the convention events at Mandalay Bay|
 |12/12/2017|1830|Convention Events End For the Day|Leave convention for the day|
+|12/12/2017|1900|Shwarma's Meditteranean|Go out to eat at a local restaurant|
 |12/13/2017|0700|Go Skydiving at Las Vegas Extreme Skydiving|Take a 10 minute skydive from a plane|
 |12/13/2017|0710|End the Skydive|Reach the ground|
 |12/13/2017|0900|Convention Events Begin|Go to the convention events at Mandalay Bay|
 |12/13/2017|1600|Convention Events End For the Day|Leave convention for the day|
 |12/13/2017|1800|Adrenaline Rush Slingshot Driving|Drive Around three wheeled cars for a joy ride|
+|12/13/2017|2000|End of Adrenanline Rush Slingshot Driving|End our 2 hour block drive time|
+|12/13/2017|2030|Ruths Chris Steakhouse|Go out to eat some good steak|
 |12/14/2017|0700|Check out and leave|Check out and leave for LAS airport|
 |12/14/2017|0715|Return rental|Return rental SUV|
 |12/14/2017|0730|Airport arrival|Arrive @ LAS airport|
